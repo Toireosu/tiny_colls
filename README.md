@@ -37,7 +37,7 @@ Output:
 ```text
 Minimum translation vector: 0.00795621, 9.99204
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ### API
 The API revolves around a single *main* class **collider** with three **POD** classes, **point**, **AABB** and, **collider**, that are given as the result from methods on the *main* class.
@@ -122,13 +122,13 @@ using collision_f = collision<float>;
 using collision_d = collision<double>;
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ### Resources
 * [Style guideline](https://google.github.io/styleguide/cppguide.html) 
@@ -136,4 +136,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Monotone chain](https://en.wikibooks.org/wiki/Algorithm_ImplementationGeometry/Convex_hull/Monotone_chain)
 * [README inspiration](https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
